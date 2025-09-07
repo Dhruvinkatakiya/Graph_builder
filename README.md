@@ -7,7 +7,7 @@ A modern Flutter app to visually build, explore, and interact with dynamic tree 
 ## 🚀 Features
 
 - **Interactive Tree Building**: Add and delete nodes with a tap
-- **Zoom & Pan**: Smooth zoom in/out and pan with gestures or buttons
+- **Zoom & Pan**: Smooth zoom in/out and pan with gestures
 - **Animated Nodes**: Beautiful transitions for adding/removing nodes
 - **Dynamic Layout**: Automatic tidy tree layout (Reingold–Tilford algorithm)
 - **Popup Help & Technical Details**: In-app explanations for users and devs
@@ -90,4 +90,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## ✨ Author
 - Dhruvin Katakiya
+
 
